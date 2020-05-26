@@ -25,8 +25,12 @@ Aplikacja jest podzielona na dwa fragmenty 'Chats' oraz 'Users', między którym
 </p>
 
 ####    Chat
+Aplikacja zapisuje wiadomości, ich nadawców i odbiorców w bazie danych Firebase. Następnie pobiera i wyświetla odpowiednio dla użytkownika wiadomości, uwzględniając kto był nadawcą, a kto odbiorcą konkretnej wiadomości.
+
+Użytkownik nie może wysłać pustej wiadomości.
 
 <p style='float: left'>
 <img src="https://i.ibb.co/f83T38X/typingmessage-Easy-Resize-com.jpg" alt="typingmessage-Easy-Resize-com" border="0">
+<img src="https://i.ibb.co/crF63zn/anne-Easy-Resize-com.jpg" alt="anne-Easy-Resize-com" border="0">
 <img src="https://i.ibb.co/KrQQB9h/displaymess-Easy-Resize-com.jpg" alt="displaymess-Easy-Resize-com" border="0">
 </p>
