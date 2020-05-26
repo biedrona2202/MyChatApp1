@@ -11,6 +11,6 @@ Użytkownik musi uzupełnić wszystkie pola aby móc się zarejestrować/zalogow
 
 Jeśli użytkownik się zarejestruje/zaloguje to jego konto będzie domyślnie zalogowane na urządzeniu dopóki nie wyloguje się z niego przy pomocy odpowiedniego itemu w menu.
 
-<img src="https://i.ibb.co/R6w97HW/start-Easy-Resize-com.jpg" alt="start-Easy-Resize-com" border="0">
+<img src="https://i.ibb.co/Qvn932S/logout-Easy-Resize-com.jpg" alt="logout-Easy-Resize-com" border="0">
 
 ####  Fragmenty
