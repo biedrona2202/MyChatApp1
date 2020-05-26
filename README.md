@@ -8,11 +8,12 @@ Dzięki aplikacji MyChatApp, użytkownicy aplikacji mogą chatować ze sobą wza
 * Użytkownik musi uzupełnić wszystkie pola aby móc się zarejestrować/zalogować. Hasło musi zawierać co najmniej 6 znaków.
 * Jeśli użytkownik się zarejestruje/zaloguje to jego konto będzie domyślnie zalogowane na urządzeniu dopóki nie wyloguje się z niego przy pomocy odpowiedniego itemu w menu.
 
+<p style='float: left'>
 <img src="https://i.ibb.co/PFP02XX/start-Easy-Resize-com.jpg" alt="start-Easy-Resize-com" border="0">
 <img src="https://i.ibb.co/KybFYth/register-Easy-Resize-com.jpg" alt="register-Easy-Resize-com" border="0">
 <img src="https://i.ibb.co/GPr5n8T/login-Easy-Resize-com.jpg" alt="login-Easy-Resize-com" border="0">
 <img src="https://i.ibb.co/Qvn932S/logout-Easy-Resize-com.jpg" alt="logout-Easy-Resize-com" border="0">
-
+</p>
 
 <img src="https://i.ibb.co/f83T38X/typingmessage-Easy-Resize-com.jpg" alt="typingmessage-Easy-Resize-com" border="0">
 
