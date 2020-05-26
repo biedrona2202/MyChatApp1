@@ -20,7 +20,7 @@ Aplikacja jest podzielona na dwa fragmenty 'Chats' oraz 'Users', między którym
 *   We framencie 'Users' znajdują sie wszyscy zarejestrowani w aplikacji użytkownicy. Po kliknięciu na item danego użytkownika można przejść do okna rozmowy.
 
 <p style='float: left'>
-<img src="https://i.ibb.co/2nF68Qn/fragchats-Easy-Resize-com.jpg" alt="fragchats-Easy-Resize-com" border="0" style="vertical-align:middle;margin:0px 50px">
+<img src="https://i.ibb.co/2nF68Qn/fragchats-Easy-Resize-com.jpg" alt="fragchats-Easy-Resize-com" border="0" style="vertical-align:middle">
 <img src="https://i.ibb.co/zs6d8Vj/fragusers-Easy-Resize-com.jpg" alt="fragusers-Easy-Resize-com" border="0">
 </p>
 
